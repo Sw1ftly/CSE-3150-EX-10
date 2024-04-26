@@ -6,5 +6,5 @@ How to run main file:
 
 
 How to run unit tests:
--g++ unit_test_vehicle.cpp
--./a.out
+- g++ unit_test_vehicle.cpp
+- ./a.out
